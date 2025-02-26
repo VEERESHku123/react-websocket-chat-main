@@ -77,17 +77,3 @@ npm run dev
 ```
 
 Note: The setup instructions are based on using Visual Studio Code as the editor.
-
-## Additional Notes
-
-This application provides a smooth real-time communication experience thanks to WebSockets. It allows users to join a room, chat with others, and view messages instantly. It is an excellent starting point for building more complex chat applications or integrating with other tools and services.
-
-Feel free to extend the functionality by adding features like private messaging, rooms, or authentication. With React and Node.js, the possibilities are endless!
-
----
-
-Thank you for checking out this project. Enjoy exploring and enhancing the chat experience!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to use, modify, and distribute this software for personal, academic, or commercial purposes.
